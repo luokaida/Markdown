@@ -4,5 +4,6 @@
 
 no newline at end of file -> newline -> "files.insertFinalNewline": true
 
-添加测试   
+- ctrl + o 打开文件
+- Ctrl + k ctrl + o 打开文件夹
 
