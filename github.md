@@ -27,5 +27,5 @@
     - 在git bash中重复执行add,commit,push指令即可
         1. git add .
         2. git commit -m "第n个版本的说明信息"
-        3. git push origin master
+        3. git push origin master   
     
