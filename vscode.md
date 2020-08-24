@@ -3,5 +3,5 @@
 + 配置flake8
 
 no newline at end of file -> newline -> "files.insertFinalNewline": true
-添加测试    
+添加测试
 
